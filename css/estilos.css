@@ -34,3 +34,8 @@ body{
 {
     padding: 0;
 }
+#footer{
+    background-color: grey;
+    color:white;
+    text-align: center;
+}
